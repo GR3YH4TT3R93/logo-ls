@@ -10,7 +10,7 @@ require (
 	github.com/mattn/go-colorable v0.1.7
 	github.com/pborman/getopt/v2 v2.1.0
 	github.com/xanzy/ssh-agent v0.3.0 // indirect
-	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
+	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad // indirect
 	golang.org/x/net v0.0.0-20201224014010-6772e930b67b // indirect
-	golang.org/x/term v0.20.0 // indirect
+	golang.org/x/term v0.20.0
 )
