@@ -10,7 +10,7 @@ var (
 )
 
 func DisplayColor(b bool) {
-	if b == false {
+	if !b {
 		noColor = ""
 		green = ""
 		brown = ""
@@ -36,4 +36,3 @@ func widthsSum(w [][4]int, p int) int {
 	s -= p
 	return s
 }
-
